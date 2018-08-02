@@ -4,9 +4,6 @@
 
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
-[![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)](https://github.com/LyceumHewun/thxy-net-api)
-
-
 ## 下载
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/atom/atom/v1.0.0/total.svg)](https://github.com/LyceumHewun/thxy-net-api/raw/master/thxy-net-api-1.0.0.jar)
