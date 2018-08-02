@@ -4,6 +4,10 @@
 
 [TOC]
 
+## 下载
+
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/atom/atom/v1.0.0/total.svg)](https://github.com/LyceumHewun/thxy-net-api/raw/master/thxy-net-api-1.0.0.jar)
+
 ## 功能
 
 ### 1.教务系统 (http://jwgl.thxy.cn/)
